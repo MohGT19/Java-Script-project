@@ -182,6 +182,6 @@ function fibonacciSequence(length) {
 }
 
 //example:
-fibonacciSequence(12)
+fibonacciSequence(12) 
 
-// fibonacci sequence with the help of chat GPT 
+// fibonacci sequence with the help of chat GPT  
